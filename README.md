@@ -11,7 +11,8 @@ Projeto desenvolvido como parte de um desafio prático da DIO, com o objetivo de
 
 ## 🚀 Como executar o projeto
 ```bash
-git clone https://github.com/SEU_USUARIO/dio-projeto-git.git
+git clone https://github.com/matheusc64/dio-projeto-git.git
+
 cd dio-projeto-git
 python3 src/main.py
 
